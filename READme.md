@@ -22,7 +22,6 @@ SELECT title, year FROM movies;
 ```
 SELECT * FROM movies;
 ```
-
 # Lesson 2 : Queries with constraints (Pt. 1)
 1. Find the movie with a row id of 6
 ```
